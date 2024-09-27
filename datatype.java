@@ -6,7 +6,9 @@ public class datatype {
         double b=25.00;
         String c="kumar";
 
-        System.out.println(a ,b ,c);
+        System.out.println(a );
+         System.out.println(b);
+         System.out.println(c );
         
     }
     
